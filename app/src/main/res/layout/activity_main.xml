@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.buybeer.MainActivity">
+
+    <ProgressBar
+        android:id="@+id/progressBar_cyclic"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:minHeight="50dp"
+        android:minWidth="50dp" />
+
+    <AutoCompleteTextView
+        android:id="@+id/findBeer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Search Beer By Name ..."
+        android:theme="@style/editText"
+        android:visibility="invisible" />
+
+    <ImageView
+        android:id="@+id/search_bar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/findBeer"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginEnd="11dp"
+        android:paddingBottom="10dp"
+        android:paddingTop="10dp"
+        android:src="@drawable/search"
+        android:visibility="invisible" />
+
+    <ImageView
+        android:id="@+id/clear"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/close"
+        android:visibility="invisible"
+        android:layout_alignParentTop="true"
+        android:layout_toStartOf="@+id/search_bar"
+        android:layout_above="@+id/list" />
+
+    <ListView android:id = "@+id/list"
+              android:layout_below="@+id/findBeer"
+              android:layout_height="match_parent"
+              android:layout_width="match_parent" />
+
+</RelativeLayout>

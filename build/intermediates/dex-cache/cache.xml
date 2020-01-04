@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/arunkumarm/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/arunkumarm/Downloads/BuyBeer/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_efbd6bc16e677c8fb8b4962eff3886b9e34a9e2b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arunkumarm/.android/build-cache/cbbeada866274067f4807458761a68892a833867/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/arunkumarm/Downloads/BuyBeer/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1ce5527f13f8ab98eb5d8fc318a3ddc8b49e7eb2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/arunkumarm/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/arunkumarm/Downloads/BuyBeer/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_efbd6bc16e677c8fb8b4962eff3886b9e34a9e2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/arunkumarm/.android/build-cache/cbbeada866274067f4807458761a68892a833867/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/arunkumarm/Downloads/BuyBeer/app/build/intermediates/pre-dexed/debug/classes_1ce5527f13f8ab98eb5d8fc318a3ddc8b49e7eb2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arunkumarm/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/arunkumarm/Downloads/BuyBeer/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_2a08dff0eb86db2c566c99096321d80d3fc60a51/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/arunkumarm/.android/build-cache/e7fbd531bbdc62491d12aff2ea034c6b13b3448e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/arunkumarm/Downloads/BuyBeer/app/build/intermediates/pre-dexed/debug/classes_5b5d94e63c95c1bbe60b6e66c9445a2163b84041.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arunkumarm/.android/build-cache/e7fbd531bbdc62491d12aff2ea034c6b13b3448e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/arunkumarm/Downloads/BuyBeer/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5b5d94e63c95c1bbe60b6e66c9445a2163b84041/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arunkumarm/Downloads/BuyBeer/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7ffde69f77b729fcb3ffa9cd0f2d2786bcc652ee">
+        <dex dex="/Users/arunkumarm/Downloads/BuyBeer/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d91086028eb2908008947af9eecbec2d5cbc0470/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arunkumarm/Downloads/BuyBeer/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="/Users/arunkumarm/Downloads/BuyBeer/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f4dec913a3d6fbf198f202c7da91c0cb67b89905/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arunkumarm/.android/build-cache/874a6bddc5718e5cb958b6f9cf00a868390a54df/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/arunkumarm/Downloads/BuyBeer/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1aea8c5a1ca17700810a982fffdaa19543d6c55e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arunkumarm/.android/build-cache/516c4af7a44013ae3e0fe9a16c8aa9c9e800033d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/arunkumarm/Downloads/BuyBeer/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dbc8afd3b512c48bdce5d8949248573833c4d67b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/arunkumarm/.android/build-cache/516c4af7a44013ae3e0fe9a16c8aa9c9e800033d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/arunkumarm/Downloads/BuyBeer/app/build/intermediates/pre-dexed/debug/classes_dbc8afd3b512c48bdce5d8949248573833c4d67b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/arunkumarm/.android/build-cache/204bdd20506a96129ea038b3b057368f8bb13b07/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/arunkumarm/Downloads/BuyBeer/app/build/intermediates/pre-dexed/debug/classes_bca36467d3d95d4586cc7626762d8e75e6f3318f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/arunkumarm/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/arunkumarm/Downloads/BuyBeer/app/build/intermediates/pre-dexed/debug/common-1.0.0_1576814d999273dd01231a9e3483734d12ee83f2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arunkumarm/.android/build-cache/204bdd20506a96129ea038b3b057368f8bb13b07/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/arunkumarm/Downloads/BuyBeer/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bca36467d3d95d4586cc7626762d8e75e6f3318f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arunkumarm/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/arunkumarm/Downloads/BuyBeer/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_1576814d999273dd01231a9e3483734d12ee83f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/arunkumarm/.android/build-cache/874a6bddc5718e5cb958b6f9cf00a868390a54df/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/arunkumarm/Downloads/BuyBeer/app/build/intermediates/pre-dexed/debug/classes_1aea8c5a1ca17700810a982fffdaa19543d6c55e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/arunkumarm/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/arunkumarm/Downloads/BuyBeer/app/build/intermediates/pre-dexed/debug/common-1.0.0_2a08dff0eb86db2c566c99096321d80d3fc60a51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/arunkumarm/.android/build-cache/a1ceea28ba9dab31a3a4e402c2953c1bd0e2cff8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/arunkumarm/Downloads/BuyBeer/app/build/intermediates/pre-dexed/debug/classes_5da931aa6ace5bcfe5fe6121f1d9a17b70e6f23f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/arunkumarm/.android/build-cache/a8cdd4b4dac7f5299409a4bab9a25a6b8896f3fb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/arunkumarm/Downloads/BuyBeer/app/build/intermediates/pre-dexed/debug/classes_82176122e81af213879dfa773160105ece136131.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arunkumarm/.android/build-cache/a8cdd4b4dac7f5299409a4bab9a25a6b8896f3fb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/arunkumarm/Downloads/BuyBeer/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_82176122e81af213879dfa773160105ece136131/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arunkumarm/.android/build-cache/a1ceea28ba9dab31a3a4e402c2953c1bd0e2cff8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/arunkumarm/Downloads/BuyBeer/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5da931aa6ace5bcfe5fe6121f1d9a17b70e6f23f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/arunkumarm/.android/build-cache/cab4e07c044a614d75622bd694f9623fa0fc4882/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/arunkumarm/Downloads/BuyBeer/app/build/intermediates/pre-dexed/debug/classes_e183de4492f9518cfd02087bcb8ea67756b900b4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arunkumarm/.android/build-cache/b1242c400b34f6a7658d5fcea31543e2bd4c7016/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/arunkumarm/Downloads/BuyBeer/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1b1ca918d734ecfcd9bfe27f62826d026e6df84c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/arunkumarm/.android/build-cache/b1242c400b34f6a7658d5fcea31543e2bd4c7016/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/arunkumarm/Downloads/BuyBeer/app/build/intermediates/pre-dexed/debug/classes_1b1ca918d734ecfcd9bfe27f62826d026e6df84c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arunkumarm/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/arunkumarm/Downloads/BuyBeer/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.1.0_98d259710a9327ec50b88e299e234f7657d5f5d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arunkumarm/.android/build-cache/cab4e07c044a614d75622bd694f9623fa0fc4882/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/arunkumarm/Downloads/BuyBeer/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e183de4492f9518cfd02087bcb8ea67756b900b4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arunkumarm/.android/build-cache/f47ff7caeb1c8503e26af565c5c668e8fef91a18/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/arunkumarm/Downloads/BuyBeer/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fe3ddb48817e8e5c04f87e6cca830f97492a525b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arunkumarm/.android/build-cache/f471b0d29e6fd54691df108d80c783aaf4796c7f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/arunkumarm/Downloads/BuyBeer/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9543f8a1369ce481bbd84810da44b29a9e7f31cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/arunkumarm/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/arunkumarm/Downloads/BuyBeer/app/build/intermediates/pre-dexed/debug/support-annotations-26.1.0_98d259710a9327ec50b88e299e234f7657d5f5d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/arunkumarm/.android/build-cache/f471b0d29e6fd54691df108d80c783aaf4796c7f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/arunkumarm/Downloads/BuyBeer/app/build/intermediates/pre-dexed/debug/classes_9543f8a1369ce481bbd84810da44b29a9e7f31cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/arunkumarm/.android/build-cache/f47ff7caeb1c8503e26af565c5c668e8fef91a18/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/arunkumarm/Downloads/BuyBeer/app/build/intermediates/pre-dexed/debug/classes_fe3ddb48817e8e5c04f87e6cca830f97492a525b.jar" />
+    </item>
+
+</items>
